@@ -27,7 +27,7 @@ The program starts asking the user to login either as an administrator or a cust
 
 ## Relations:
 
-<img width="700" alt="Relational_Model" src="https://github.com/Ayush121511/FlipMartRetailStore/assets/104028858/a72589f5-e8cc-468b-a2da-a3b1a4a8c0cd">
+<img width="800" alt="Relational_Model" src="https://github.com/Ayush121511/FlipMartRetailStore/assets/104028858/a72589f5-e8cc-468b-a2da-a3b1a4a8c0cd">
 
 The tables or relations that have been used in the database are described below. The attributes of all the tables have been listed and the primary keys in them have been underlined as per convention.
 
