@@ -1,6 +1,6 @@
 # DBMS Project Report: FlipMart
 
-**User Guide**
+## User Guide
 
 **Functionalities:**
 
@@ -25,7 +25,9 @@ The program starts asking the user to login either as an administrator or a cust
 1. Place their final order. The contents of the entire cart will be ordered on the behalf of the user, but they have been given multiple opportunities to change the contents before that. A warning is displayed before the order is placed as well. The coupon available to them which offers the maximum discount will automatically be applied on the order and a receipt will be generated.
 1. View all the coupons available to them.
 
-**Relations:**
+## Relations:
+
+<img width="508" alt="Relational_Model" src="https://github.com/Ayush121511/FlipMartRetailStore/assets/104028858/a72589f5-e8cc-468b-a2da-a3b1a4a8c0cd">
 
 The tables or relations that have been used in the database are described below. The attributes of all the tables have been listed and the primary keys in them have been underlined as per convention.
 
@@ -53,7 +55,7 @@ Order\_id, Order\_date, Total\_price, Delivery\_date, Pincode, user\_id
 
 **Products\_In\_Order :** Description of the products in the orders in queue Order\_id, User\_id, Product\_id, quantity
 
-**Transactions**
+## Transactions
 
 T1: Admin A changes the quantity of available products at a branch.
 
