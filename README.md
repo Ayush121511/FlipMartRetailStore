@@ -1,4 +1,4 @@
-﻿**DBMS Project Report: FlipMart**
+# DBMS Project Report: FlipMart
 
 **User Guide**
 
